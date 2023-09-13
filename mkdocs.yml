@@ -1,5 +1,5 @@
 site_name: Julian Bikepack Loops
-site_url: https://example.com/
+site_url: https://julian-bikepack-loops.github.io/jbpc/
 
 nav:
   - Home: index.md
@@ -11,7 +11,6 @@ nav:
   - Information: info.md
   - Downloads: downloads.md
   - 'Fastest Known Times': fkt.md
-
 
 theme:
   name: material
