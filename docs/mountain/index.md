@@ -1,6 +1,5 @@
-Mountains and more mountains
+## Mountains and more mountains
 
-# DESCRIPTION
 This loop puts the challenge in the Julian Bikepack Challenge! The loop begins with a descent from Julian to Banner, where you will start a climb over to [Cuyamaca Rancho State Park](https://www.parks.ca.gov/?page_id=667) for some great singletrack. The singletrack will have you working your way over to Mount Laguna via Indian Creek Trail, which is sure to test your climbing ability. Then the incredible singletrack playground of Mount Laguna awaits you before you are sent down to Pine Valley on one of the most epic singletrack runs in the country namely Noble Canyon. From Pine Valley we take in the [Corral Canyon OHV Area](https://www.fs.usda.gov/detailfull/cleveland/recreation/ohv/?cid=stelprdb5277278&width=full) dirt and singletrack for a 50 mile loop that ends back in Pine Valley. From Pine Valley it’s back to Julian with a sweet mix of chipseal, dirt road, singletrack and the the final paved cruise back to town.
 
 # DIFFICULTY
