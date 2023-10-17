@@ -1,2 +1,2 @@
 # jbpc
-Julian Bikepack Challenge website code
+Julian Bikepack Challenge website code using MkDocs
